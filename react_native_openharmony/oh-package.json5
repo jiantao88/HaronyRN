@@ -1,0 +1,15 @@
+{
+  license: 'ISC',
+  types: '',
+  devDependencies: {},
+  name: '@rnoh/react-native-openharmony',
+  description: 'React Native for OpenHarmony',
+  ohos: {
+    org: '',
+  },
+  type: 'module',
+  version: '0.72.28',
+  dependencies: {},
+  main: 'index.ets',
+  "modelVersion": "1.0"
+}
